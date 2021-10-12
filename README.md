@@ -6,7 +6,6 @@
     <br>
     I am a Full-Stack Developer living in Brisbane, Australia.
     <br>
-    <br>
   </samp>
   <br>
   <br>
