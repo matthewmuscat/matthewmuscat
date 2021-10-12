@@ -7,7 +7,6 @@
     I am a Full-Stack Developer living in Brisbane, Australia.
     <br>
     <br>
-    <i>#react, #rails, #python, #atomicdesign</i>
   </samp>
   <br>
   <br>
